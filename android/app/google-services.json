@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457090920872",
+    "project_id": "samat-e2963",
+    "storage_bucket": "samat-e2963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457090920872:android:3dc6a8c0ea08d03a306d9d",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-q3CQ3Kzi3cBeLq_5ucBKtAXAUGbEl6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
